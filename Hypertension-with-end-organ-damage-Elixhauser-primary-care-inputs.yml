@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/heartrenal-hypertension-with-end-organ-damage-elixhauser-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/hypertension-with-endorgan-damage-elixhauser-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/hypertension-with-end-organ-damage-elixhauser-primary-care-failure---primary.py
+inputModule5:
+  class: File
+  path: python/hypertensive-hypertension-with-end-organ-damage-elixhauser-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
